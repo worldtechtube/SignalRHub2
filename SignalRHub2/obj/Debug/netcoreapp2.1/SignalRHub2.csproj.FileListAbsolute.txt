@@ -1,0 +1,15 @@
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\bin\Debug\netcoreapp2.1\SignalRHub2.deps.json
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\bin\Debug\netcoreapp2.1\SignalRHub2.runtimeconfig.json
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\bin\Debug\netcoreapp2.1\SignalRHub2.runtimeconfig.dev.json
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\bin\Debug\netcoreapp2.1\SignalRHub2.dll
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\bin\Debug\netcoreapp2.1\SignalRHub2.pdb
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.csprojAssemblyReference.cache
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.AssemblyInfoInputs.cache
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.AssemblyInfo.cs
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.csproj.CoreCompileInputs.cache
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.RazorAssemblyInfo.cache
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.RazorAssemblyInfo.cs
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.RazorTargetAssemblyInfo.cache
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.dll
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.pdb
+C:\Users\IRSHAD\source\repos\SignalRHub2\SignalRHub2\obj\Debug\netcoreapp2.1\SignalRHub2.genruntimeconfig.cache
